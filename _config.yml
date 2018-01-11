@@ -20,9 +20,9 @@ commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis d
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: hello@webjeda.com
+#email: hello@webjeda.com
 website: letsdocloud.com #do not add http://
-linkedin: erick.gubi
+linkedin: erickgubi
 github: dmnt3d
 twitter: '@callmegubi'
 #Update all the sections by editing the files inside _data folder.
