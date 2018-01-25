@@ -14,7 +14,9 @@ style: styles-6 #dark grey
 name: Erick Gubi
 tagline: Technology Enthusiast
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Passionate Technology Enthusiast. '
+summary: 'Accomplished VMware Professional with proven ability to design, architect, deploy, and support various VMware Technologies and Solutions.
+Highly proficient in various areas of IT and Cloud. Loves scripting and always look for ways to do more with less!
+Full time dad on the weekend -- Technology Enthusiast on the Weekdays'
 
 #sidebar links
 #email: hello@webjeda.com
@@ -29,7 +31,7 @@ analytics: UA-40489712-2
 
 # Build settings
 encoding: "utf-8"
-compress_html: # - http://jch.penibelst.de/
+compress_html: # 
   clippings: all
   ignore:
     envs: development
