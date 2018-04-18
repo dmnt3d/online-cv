@@ -1,18 +1,18 @@
 - skill:
-  name: Python & Django
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
+  name: VMware/ Datacenter Virtualization
   level: 95%
 - skill:
-  name: Ruby on Rails
-  level: 85%
+  name: VMware/ Network Virtualization
+  level: 70%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Correlating Business Objectives to Technical Requirements
+  level: 80%
+- skill:
+  name: End-to-end Service Architecture
+  level: 80%
+- skill:
+  name: Scripting/ Powershell
+  level: 70%
+- skill:
+  name: Scripting/ Python
+  level: 40%
